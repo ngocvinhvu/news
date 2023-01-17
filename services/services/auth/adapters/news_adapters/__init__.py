@@ -1,0 +1,3 @@
+from .news_creatable_service import NewsCreatableService
+from .news_updatable_service import NewsUpdatableService
+from .news_deletable_service import NewsDeletableService
