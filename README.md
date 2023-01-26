@@ -18,7 +18,7 @@ An in-depth paragraph about your project and overview of use.
 
 * Install from poetry
 ```
-cd ./vinhvn
+cd ./opt
 cp .env.example .env
 poetry install
 ```
@@ -46,9 +46,6 @@ Any advice for common problems or issues.
 ```
 command to run if program contains helper info
 ```
-
-## Authors
-Vinh vu? ngok
 
 ## Acknowledgments
 
